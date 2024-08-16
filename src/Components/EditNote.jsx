@@ -75,7 +75,7 @@ const EditNote = ({ notes, setNotes }) => {
     // </section>
     <section className="relative">
       <h1 className=" text-gray-700 sticky top-0 text-2xl font-semibold leading-10 px-5 bg-white">
-        Edit Notes || Change note
+        Edit Notes
       </h1>
       <div className="mx-2">
         <div className="flex justify-between items-center py-1 ">
